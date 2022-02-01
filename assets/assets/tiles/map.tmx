@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="64" tileheight="64" infinite="0" nextlayerid="3" nextobjectid="263">
+ <tileset firstgid="1" source="sprite_sheet.tsx"/>
+ <layer id="1" name="tile_layer" width="25" height="25">
+  <data encoding="base64">
+   JAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAA7AAAAOwAAADsAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAACQAAAAkAAAAJAAAAA==
+  </data>
+ </layer>
+ <objectgroup id="2" name="collision">
+  <object id="69" name="forest" type="collision" gid="42" x="1280" y="1344" width="64" height="64"/>
+  <object id="191" name="forest" type="collision" gid="42" x="1280" y="1280" width="64" height="64"/>
+  <object id="70" name="forest" type="collision" gid="42" x="1216" y="1344" width="64" height="64"/>
+  <object id="71" name="forest" type="collision" gid="42" x="1152" y="1344" width="64" height="64"/>
+  <object id="72" name="forest" type="collision" gid="42" x="1088" y="1344" width="64" height="64"/>
+  <object id="73" name="forest" type="collision" gid="42" x="1024" y="1344" width="64" height="64"/>
+  <object id="74" name="forest" type="collision" gid="42" x="960" y="1344" width="64" height="64"/>
+  <object id="75" name="forest" type="collision" gid="42" x="897" y="1344" width="64" height="64"/>
+  <object id="76" name="forest" type="collision" gid="42" x="832" y="1344" width="64" height="64"/>
+  <object id="77" name="forest" type="collision" gid="42" x="768" y="1344" width="64" height="64"/>
+  <object id="144" name="forest" type="collision" gid="42" x="448" y="1344" width="64" height="64"/>
+  <object id="145" name="forest" type="collision" gid="42" x="512" y="1344" width="64" height="64"/>
+  <object id="78" name="forest" type="collision" gid="42" x="704" y="1344" width="64" height="64"/>
+  <object id="143" name="forest" type="collision" gid="42" x="384" y="1344" width="64" height="64"/>
+  <object id="79" name="forest" type="collision" gid="42" x="640" y="1344" width="64" height="64"/>
+  <object id="142" name="forest" type="collision" gid="42" x="320" y="1344" width="64" height="64"/>
+  <object id="80" name="forest" type="collision" gid="42" x="576" y="1344" width="64" height="64"/>
+  <object id="141" name="forest" type="collision" gid="42" x="256" y="1344" width="64" height="64"/>
+  <object id="160" name="forest" type="collision" gid="42" x="256" y="896" width="64" height="64"/>
+  <object id="190" name="forest" type="collision" gid="42" x="1280" y="960" width="64" height="64"/>
+  <object id="152" name="forest" type="collision" gid="42" x="256" y="1088" width="64" height="64"/>
+  <object id="189" name="forest" type="collision" gid="42" x="1280" y="1152" width="64" height="64"/>
+  <object id="159" name="forest" type="collision" gid="42" x="256" y="640" width="64" height="64"/>
+  <object id="188" name="forest" type="collision" gid="42" x="1280" y="704" width="64" height="64"/>
+  <object id="148" name="forest" type="collision" gid="42" x="256" y="1216" width="64" height="64"/>
+  <object id="158" name="forest" type="collision" gid="42" x="256" y="768" width="64" height="64"/>
+  <object id="187" name="forest" type="collision" gid="42" x="1280" y="832" width="64" height="64"/>
+  <object id="151" name="forest" type="collision" gid="42" x="256" y="960" width="64" height="64"/>
+  <object id="186" name="forest" type="collision" gid="42" x="1280" y="1024" width="64" height="64"/>
+  <object id="157" name="forest" type="collision" gid="42" x="256" y="512" width="64" height="64"/>
+  <object id="185" name="forest" type="collision" gid="42" x="1280" y="576" width="64" height="64"/>
+  <object id="163" name="forest" type="collision" gid="42" x="256" y="320" width="64" height="64"/>
+  <object id="184" name="forest" type="collision" gid="42" x="1280" y="384" width="64" height="64"/>
+  <object id="146" name="forest" type="collision" gid="42" x="256" y="1280" width="64" height="64"/>
+  <object id="156" name="forest" type="collision" gid="42" x="256" y="832" width="64" height="64"/>
+  <object id="183" name="forest" type="collision" gid="42" x="1280" y="896" width="64" height="64"/>
+  <object id="150" name="forest" type="collision" gid="42" x="256" y="1024" width="64" height="64"/>
+  <object id="182" name="forest" type="collision" gid="42" x="1280" y="1088" width="64" height="64"/>
+  <object id="155" name="forest" type="collision" gid="42" x="256" y="576" width="64" height="64"/>
+  <object id="181" name="forest" type="collision" gid="42" x="1280" y="640" width="64" height="64"/>
+  <object id="162" name="forest" type="collision" gid="42" x="256" y="384" width="64" height="64"/>
+  <object id="180" name="forest" type="collision" gid="42" x="1280" y="448" width="64" height="64"/>
+  <object id="147" name="forest" type="collision" gid="42" x="256" y="1149" width="64" height="64"/>
+  <object id="179" name="forest" type="collision" gid="42" x="1280" y="1213" width="64" height="64"/>
+  <object id="154" name="forest" type="collision" gid="42" x="256" y="704" width="64" height="64"/>
+  <object id="178" name="forest" type="collision" gid="42" x="1280" y="768" width="64" height="64"/>
+  <object id="149" name="forest" type="collision" gid="42" x="256" y="896" width="64" height="64"/>
+  <object id="153" name="forest" type="collision" gid="42" x="256" y="448" width="64" height="64"/>
+  <object id="177" name="forest" type="collision" gid="42" x="1280" y="512" width="64" height="64"/>
+  <object id="161" name="forest" type="collision" gid="42" x="256" y="256" width="64" height="64"/>
+  <object id="195" name="forest" type="collision" gid="42" x="512" y="256" width="64" height="64"/>
+  <object id="199" name="forest" type="collision" gid="42" x="768" y="256" width="64" height="64"/>
+  <object id="176" name="forest" type="collision" gid="42" x="1280" y="320" width="64" height="64"/>
+  <object id="200" name="forest" type="collision" gid="42" x="1280" y="256" width="64" height="64"/>
+  <object id="201" name="forest" type="collision" gid="42" x="1216" y="256" width="64" height="64"/>
+  <object id="202" name="forest" type="collision" gid="42" x="1152" y="256" width="64" height="64"/>
+  <object id="203" name="forest" type="collision" gid="42" x="1088" y="256" width="64" height="64"/>
+  <object id="204" name="forest" type="collision" gid="42" x="1024" y="256" width="64" height="64"/>
+  <object id="166" name="forest" type="collision" gid="42" x="384" y="256" width="64" height="64"/>
+  <object id="194" name="forest" type="collision" gid="42" x="640" y="256" width="64" height="64"/>
+  <object id="198" name="forest" type="collision" gid="42" x="896" y="256" width="64" height="64"/>
+  <object id="164" name="forest" type="collision" gid="42" x="320" y="256" width="64" height="64"/>
+  <object id="193" name="forest" type="collision" gid="42" x="576" y="256" width="64" height="64"/>
+  <object id="197" name="forest" type="collision" gid="42" x="832" y="256" width="64" height="64"/>
+  <object id="165" name="forest" type="collision" gid="42" x="448" y="256" width="64" height="64"/>
+  <object id="192" name="forest" type="collision" gid="42" x="704" y="256" width="64" height="64"/>
+  <object id="196" name="forest" type="collision" gid="42" x="960" y="256" width="64" height="64"/>
+  <object id="205" name="home" type="collision" gid="62" x="512" y="576" width="64" height="64"/>
+  <object id="215" name="forest" gid="42" x="768" y="768" width="64" height="64"/>
+  <object id="216" name="forest" gid="42" x="704" y="768" width="64" height="64"/>
+  <object id="217" name="forest" gid="42" x="640" y="768" width="64" height="64"/>
+  <object id="218" name="forest" gid="42" x="576" y="768" width="64" height="64"/>
+  <object id="219" name="forest" gid="42" x="512" y="768" width="64" height="64"/>
+  <object id="220" name="forest" gid="42" x="512" y="832" width="64" height="64"/>
+  <object id="221" name="forest" gid="42" x="512" y="896" width="64" height="64"/>
+  <object id="222" name="forest" gid="42" x="512" y="960" width="64" height="64"/>
+  <object id="223" name="forest" gid="42" x="576" y="960" width="64" height="64"/>
+  <object id="224" name="forest" gid="42" x="640" y="960" width="64" height="64"/>
+  <object id="225" name="forest" gid="42" x="704" y="960" width="64" height="64"/>
+  <object id="226" name="forest" gid="42" x="768" y="960" width="64" height="64"/>
+  <object id="227" name="forest" gid="42" x="768" y="1024" width="64" height="64"/>
+  <object id="228" name="forest" gid="42" x="768" y="1088" width="64" height="64"/>
+  <object id="229" name="forest" gid="42" x="768" y="1152" width="64" height="64"/>
+  <object id="230" name="forest" gid="42" x="704" y="1152" width="64" height="64"/>
+  <object id="231" name="forest" gid="42" x="640" y="1152" width="64" height="64"/>
+  <object id="232" name="forest" gid="42" x="576" y="1152" width="64" height="64"/>
+  <object id="233" name="forest" gid="42" x="512" y="1152" width="64" height="64"/>
+  <object id="235" name="player" type="boy" x="384" y="768" width="64" height="64"/>
+  <object id="262" name="player" type="girl" x="1216" y="1024" width="64" height="64"/>
+  <object id="236" name="enemy" type="1" x="832" y="384" width="64" height="64"/>
+  <object id="238" name="enemy" type="1" x="960" y="512" width="64" height="64"/>
+  <object id="239" name="enemy" type="1" x="960" y="640" width="64" height="64"/>
+  <object id="242" name="enemy" type="1" x="384" y="960" width="64" height="64"/>
+  <object id="243" name="enemy" type="2" x="384" y="256" width="64" height="64"/>
+  <object id="246" name="enemy" type="2" x="1152" y="1152" width="64" height="64"/>
+  <object id="247" name="enemy" type="2" x="1088" y="960" width="64" height="64"/>
+  <object id="248" name="enemy" type="2" x="448" y="1152" width="64" height="64"/>
+  <object id="249" name="enemy" type="2" x="704" y="768" width="64" height="64"/>
+  <object id="250" name="enemy" type="2" x="960" y="768" width="64" height="64"/>
+  <object id="251" name="enemy" type="3" x="1152" y="512" width="64" height="64"/>
+  <object id="252" name="enemy" type="3" x="1152" y="384" width="64" height="64"/>
+  <object id="253" name="enemy" type="3" x="1152" y="832" width="64" height="64"/>
+  <object id="254" name="enemy" type="3" x="896" y="1088" width="64" height="64"/>
+  <object id="255" name="utils" type="plus" x="896" y="896" width="64" height="64"/>
+  <object id="258" name="utils" type="plus" x="640" y="960" width="64" height="64"/>
+  <object id="260" name="utils" type="plus" x="320" y="704" width="64" height="64"/>
+  <object id="259" name="utils" type="plus" x="640" y="1152" width="64" height="64"/>
+  <object id="256" name="utils" type="plus" x="512" y="384" width="64" height="64"/>
+  <object id="257" name="utils" type="plus" x="512" y="384" width="64" height="64"/>
+ </objectgroup>
+</map>
